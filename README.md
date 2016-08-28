@@ -48,4 +48,4 @@ ruby ./plot_gen.rb
 
 ## Author
 
-[hitsugi](https://github.com/hitsugi
+[hitsugi](https://github.com/hitsugi)
